@@ -2,7 +2,7 @@
 
 # GIT Commands
 
-# it initialises a git repository, precisely creates a local .git file which is going to keep track of all changes
+> it initialises a git repository, precisely creates a local .git file which is going to keep track of all changes
 git init 
 
 # below command add files to staging are based on file pattern has passed to it,  ( . ) represents all files and folders 
